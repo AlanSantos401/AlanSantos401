@@ -12,5 +12,9 @@
 <br>
 <h2>Conecte-se comigo:</h2>
 <p align="left>
-<a href=""https://github.com/AlanSantos401/">
-  <img src="https://icons8.com/icon/set/instagram/group-ui"></a>
+<a href="https://www.instagram.com/alan_santossan?igsh=NTJhamFtZHJhZHhx">
+  <img src="https://raw.githubusercontent.com/AlanSantos401/AlanSantos401/b5c991c5b258bf1ddbc426153d1174f1de0cc7c5/icons8-instagram%20(1).svg"></a>
+  <a href="https://www.linkedin.com/in/alan-santos-a27951347">
+  <img src=""></a>
+<a href="https://www.facebook.com/share/15nngZo8R2/">
+  <img src=""></a>
