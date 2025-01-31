@@ -20,4 +20,6 @@
   <img src="https://raw.githubusercontent.com/AlanSantos401/AlanSantos401/029a0bf46b7e759e409364da03d64d51f2bc2205/icons8-facebook.svg" alt="facebook"></a>
   <br>
   <br>
-<p>Estou a procura do primeiro serciço na aréa, para desmosntrar minhas habilidades e conhecimento. Visando cada dia mais creçer e obter conhecimento para se tornar um desenvolverdor cada vez melhor.</p>
+  <h3>🎯Objetivo: Transformar ideias em projetos funcionais e impactates.</h3>
+  <bR>
+<img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F0c34272909ee2a4db5606a014082312b%2Ftenor.gif%3Fitemid%3D15828752">
