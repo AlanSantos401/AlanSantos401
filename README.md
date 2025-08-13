@@ -3,7 +3,7 @@
 <h3>Olá! sou Alan santos, sou um desenvolverdor junúior Full Stack💻📈.</h3>
 <br>
 <p>Estou em transição de carreira a procura do primeiro emprego, para mostras minhas habilidades e força de vontade💻💪</p>
-<h4>Minhas Habilidades</h4>
+<h3>Minhas Habilidades</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-5">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css">
@@ -22,23 +22,15 @@
   
 <br>
 <br>
-<h2>Conecte-se comigo:</h2>
+<h1>Conecte-se comigo:</h1>
 <p align="left>
-<a href="https://www.instagram.com/alan_santossan?igsh=NTJhamFtZHJhZHhx" style="text-decoration:none;">
-  <img src="instagram.svg" width="50" alt="instagram">
-</a>
+## Conecte-se comigo:
 
-<a href="https://www.linkedin.com/in/alan-dos-santoss" style="text-decoration:none;">
-  <img src="linkedin.svg" width="50" alt="linkedin">
-</a>
+[<img src="instagram.svg" width="50"/>](https://www.instagram.com/alan_santossan?igsh=NTJhamFtZHJhZHhx)
+[<img src="linkedin.svg" width="50"/>](https://www.linkedin.com/in/alan-dos-santoss)
+[<img src="laptop.svg" width="50"/>](https://alansantos401.github.io/Portfolio)
+[<img src="facebook.svg" width="50"/>](https://www.facebook.com/share/15nngZo8R2/)
 
-<a href="https://alansantos401.github.io/Portfolio" style="text-decoration:none;">
-  <img src="laptop.svg" width="50" alt="portfolio">
-</a>
-
-<a href="https://www.facebook.com/share/15nngZo8R2/" style="text-decoration:none;">
-  <img src="facebook.svg" width="50" alt="facebook">
-</a>
 
   <br>
   <br>
