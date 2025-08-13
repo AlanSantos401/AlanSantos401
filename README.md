@@ -24,18 +24,22 @@
 <br>
 <h2>Conecte-se comigo:</h2>
 <p align="left>
-<a href="https://www.instagram.com/alan_santossan?igsh=NTJhamFtZHJhZHhx">
+<a href="https://www.instagram.com/alan_santossan?igsh=NTJhamFtZHJhZHhx" style="text-decoration:none;">
   <img src="instagram.svg" width="50" alt="instagram">
 </a>
-<a href="https://www.linkedin.com/in/alan-dos-santoss">
+
+<a href="https://www.linkedin.com/in/alan-dos-santoss" style="text-decoration:none;">
   <img src="linkedin.svg" width="50" alt="linkedin">
 </a>
-<a href="https://alansantos401.github.io/Portfolio">
+
+<a href="https://alansantos401.github.io/Portfolio" style="text-decoration:none;">
   <img src="laptop.svg" width="50" alt="portfolio">
-</a>   
-<a href="https://www.facebook.com/share/15nngZo8R2/">
+</a>
+
+<a href="https://www.facebook.com/share/15nngZo8R2/" style="text-decoration:none;">
   <img src="facebook.svg" width="50" alt="facebook">
 </a>
+
   <br>
   <br>
   <h3>🎯Objetivo: Transformar ideias em projetos funcionais e impactates.</h3>
