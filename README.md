@@ -27,9 +27,12 @@
 <a href="https://www.instagram.com/alan_santossan?igsh=NTJhamFtZHJhZHhx">
   <img src="instagram.svg" width="50" alt="instagram">
 </a>
-<a href="https://www.linkedin.com/in/alan-dos-santoss/">
-  <img src="linkedin.svg" width="50" alt="linkedin>
+<a href="https://www.linkedin.com/in/alan-dos-santoss">
+  <img src="linkedin.svg" width="50" alt="linkedin">
 </a>
+<a href="https://alansantos401.github.io/Portfolio">
+  <img src="laptop.svg" width="50" alt="portfolio">
+</a>   
 <a href="https://www.facebook.com/share/15nngZo8R2/">
   <img src="facebook.svg" width="50" alt="facebook">
 </a>
