@@ -1,6 +1,6 @@
 <h2>Olá😃</h2>
 <br>
-<h3>Olá! sou Alan santos, sou um desenvolverdor junúior Full Stack💻📈.</h3>
+<h3>Olá! sou Alan dos Santos, um desenvolverdor junúior Full Stack💻📈.</h3>
 <br>
 <p>Estou em transição de carreira a procura do primeiro emprego, para mostras minhas habilidades e força de vontade💻💪</p>
 <h3>Minhas Habilidades</h3>
